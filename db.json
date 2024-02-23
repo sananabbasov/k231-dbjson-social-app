@@ -1,0 +1,42 @@
+{
+  "users": [],
+  "posts": [
+    {
+      "id": "921a",
+      "userName": "hmzyv.m",
+      "profilePhoto": "https://cdn.pixabay.com/photo/2017/03/27/14/56/auto-2179220_1280.jpg",
+      "images": [
+        "https://cdn.pixabay.com/photo/2022/06/05/20/24/rome-7244828_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/04/26/18/32/tiber-bridge-2263361_1280.jpg",
+        "https://cdn.pixabay.com/photo/2018/10/21/20/47/architecture-3763822_1280.jpg"
+      ],
+      "description": "Gozel istirahet kecirtdim smester imtahanina davam #tbt #roma #kesfet #like #comment"
+    },
+    {
+      "id": "dc8c",
+      "userName": "compar_academy",
+      "profilePhoto": "https://instagram.fgyd12-1.fna.fbcdn.net/v/t51.2885-19/376848924_255423820794146_7314091148843278293_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fgyd12-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=6yscrriI-9wAX8-zQiB&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBYQeEKvTFL81p5KUZO787g9CRqOS91eytq1cQWQ7-Jew&oe=65DBD6E0&_nc_sid=8b3546",
+      "images": [
+        "https://comparassetsource.s3.amazonaws.com/media/blog/article/graphic-designer-woman-working-laptop_72104-3294.webp"
+      ],
+      "description": "Gozel istirahet kecirtdim smester imtahanina davam #tbt #roma #kesfet #like #comment"
+    },
+    {
+      "id": "732d",
+      "userName": "hmzyv.m",
+      "profilePhoto": "https://cdn.pixabay.com/photo/2017/03/27/14/56/auto-2179220_1280.jpg",
+      "images": [
+        "https://cdn.pixabay.com/photo/2022/06/05/20/24/rome-7244828_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/04/26/18/32/tiber-bridge-2263361_1280.jpg",
+        "https://cdn.pixabay.com/photo/2018/10/21/20/47/architecture-3763822_1280.jpg"
+      ],
+      "description": "Gozel istirahet kecirtdim smester imtahanina davam",
+      "tags": [
+        "tbt",
+        "like",
+        "roma"
+      ],
+      "like": 0
+    }
+  ]
+}
